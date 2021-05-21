@@ -1,0 +1,57 @@
+h1 {
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	letter-spacing: 2px;
+	font-family: fantasy;
+}
+
+fieldset {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	text-align: center;
+	letter-spacing: 1px;
+	padding-left: 4em;
+	padding-right: 4em;
+}
+
+button {
+	display: block;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+label {
+	float: left;
+	width: 250px;
+	clear: left;
+	text-align: right;
+	padding-right: 1em;
+}
+
+input {
+	float: left;
+}
+
+#output {
+	font-size: 150%;
+	text-align: center;
+	width: 400px;
+	margin-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: fantasy;
+}
+
+body {
+	background-color: #90EE90;
+}
+
+#form_box {
+	text-align: center;
+}
